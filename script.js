@@ -11,9 +11,9 @@ const txt = document.getElementById('text')
 
 btn_toggle.onclick = () => {
   // your code here
-  const Nocalculation
-  Nocalculation =  630610722+length
-  author.append(Nocalculation)
+  const No_calculation
+  No_calculation =  630610722+length
+  author.append(No_calculation)
 }
 
 // more codes for Search and Reset buttons here
