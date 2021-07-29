@@ -8,6 +8,9 @@ const color = document.querySelector('#color')
 
 btn_toggle.onclick = () => {
   // your code here
+  const Nocalculation
+  Nocalculation =  630610722+length;
+  document.append(Nocalculation)
 }
 
 // more codes for Search and Reset buttons here
