@@ -12,7 +12,7 @@ const txt = document.getElementById('text')
 btn_toggle.onclick = () => {
   // your code here
   const No_calculation
-  No_calculation =  630610722+length
+  No_calculation =  630610722+length.value
   author.append(No_calculation)
 }
 
